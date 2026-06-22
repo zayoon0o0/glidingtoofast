@@ -1,9 +1,10 @@
 # GlidingTooFast
 
-## Setup
+A simple Fabric server-side mod to warn players if they are going too fast with the Elytra.
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+### How to build
+1. ```git clone https://github.com/zayoon0o0/glidingtoofast.git```
 
-## License
+2. ```cd glidingtoofast```
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+3. ```./gradlew build```
